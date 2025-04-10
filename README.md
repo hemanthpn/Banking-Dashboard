@@ -1,4 +1,5 @@
 # Banking-Dashboard
+POWER BI LINK :https://drive.google.com/file/d/1ssBOTe0TwG74IPXlagn6UayyrtOl-GfC/view?usp=drive_link
 
 Designed and developed an interactive Power BI dashboard analyzing the investment behavior of 3,000+ banking customers across gender, geography, income bands, and bank types.
 
